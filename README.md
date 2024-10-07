@@ -1,4 +1,4 @@
-# Agenda-de-contado
+# Agenda-de-contato
 Este projeto tem como objetivo o desenvolvimento de um site simples de agenda de contatos, aplicando conceitos fundamentais de HTML, CSS e JavaScript. A proposta é criar uma ferramenta interativa que permita ao usuário gerenciar uma lista de contatos, adicionando, visualizando e removendo informações de maneira fácil e intuitiva.
 
 A partir do tema "Agenda de Contatos", o site será estruturado de forma organizada, com uma interface clara e funcional. Ele incluirá uma página inicial que exibe os contatos já cadastrados e permitirá que novos contatos sejam inseridos por meio de um formulário, reforçando a aplicação prática de componentes de formulário e interação dinâmica.
