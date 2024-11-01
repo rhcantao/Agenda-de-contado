@@ -5,4 +5,4 @@ A partir do tema "Agenda de Contatos", o site será estruturado de forma organiz
 
 Além disso, o design será cuidadosamente planejado para proporcionar uma experiência agradável ao usuário, utilizando técnicas de estilização para melhorar a visualização e organização das informações. O site também integrará recursos interativos, como validação de dados e manipulação de conteúdo em tempo real, aprimorando a usabilidade e garantindo que o projeto não apenas funcione corretamente, mas também ofereça uma navegação fluida e moderna.
 
-Este projeto tem como principal finalidade consolidar o aprendizado dos conceitos apresentados em aula, proporcionando uma aplicação prática que alia estruturação, estilização e funcionalidades dinâmicas, em um exemplo prático e útil de desenvolvimento we
+
